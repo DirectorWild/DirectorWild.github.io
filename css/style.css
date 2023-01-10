@@ -1,4 +1,7 @@
 .container {
+    padding: 0px;
+    margin: 0px;
+    height: 100vh;
     background-color: black;
     text-align: center;
 }
@@ -17,7 +20,7 @@
 }
 body {
     font-family: sans-serif;
-    margin: 16px;
+    margin: 0px;
 }
 
 
@@ -29,6 +32,7 @@ body {
 .privacyContainer {
     width: 100%;
     height: auto;
+    margin: 16px;
 }
 .description {
     margin-left: 20px;
